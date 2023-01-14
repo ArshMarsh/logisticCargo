@@ -2,8 +2,8 @@
 A simple web based application using react.js for front-end and Springboot for back-end for the logistics needs of a cargo delivery company. A local Mysql database was used for using the information and the usage of SQL queries was the main focus of this project
 
 1. Contributors:
-Faaiz Khan 
-Maher Athar Ilyas 
+Faaiz Khan/ 
+Maher Athar Ilyas/ 
 Amirreza Khoshbakht 
 
 2. Description
