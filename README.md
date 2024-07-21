@@ -1,12 +1,12 @@
 # logisticCargo
 A simple web based application using react.js for front-end and Springboot for back-end for the logistics needs of a cargo delivery company. A local Mysql database was used for storing data and the usage of SQL queries was the main focus of this project
 
-1. Contributors:
+1. Contributors: Arshia Bakhshayesh/
 Faaiz Khan/ 
 Maher Athar Ilyas/ 
 Amirreza Khoshbakht 
 
-2. Description
+3. Description
 BilCargo is a logistic company’s web application system for managing different users such as
 customers, employees, and couriers. Every user has the ability to log in with their specified ID
 and chosen password to a personalized page.
@@ -27,4 +27,4 @@ to start delivering packages. Couriers can update the status and delivery time o
 assigned to them by the employees
 
 
-3. For implementation details and technologies used please refer to the manual part  5.
+4. For implementation details and technologies used please refer to the manual part  5.
